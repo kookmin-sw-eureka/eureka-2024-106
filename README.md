@@ -1,17 +1,13 @@
-<!-- CSS 
-<link rel="stylesheet" href="theme.css">
--->
 
 ## <span style="color:green;">유레카 프로젝트 6조</span>  
-A creative way to encourage everyone to think and share ideas.
 
 ---
 <!-- slogan 
  슬로건 선정 이유 등 간단한 설명 필요-->
 ### <span style="color:orange;">Team Slogan</span>
-학부생으로서의 도전,  유레카 프로젝트에서 확립
+학부생으로서의 도전,  유레카 프로젝트에서 확립 💡
 
-![teamslogan](images/teamslogan.png)
+![teamslogan](https://github.com/user-attachments/assets/646b9c75-3e35-48df-a844-411f1a4fb4ed)
 
 '유레카'는 보통 뜻밖의 발견을 했을 때 사용하는 감탄사로 잘 알려져 있지만, 어원을 보면 '나는 찾는다'라는 의미를 가짐.
 
@@ -20,32 +16,34 @@ A creative way to encourage everyone to think and share ideas.
 ---
 <!-- 팀원에 대한 간단한 소개 -->
 
-## <span style="color:orange;">팀원 소개</span> 
+### <span style="color:orange;">팀원 소개</span> 🧑‍💻
 
-### 박상현
+#### 박상현
 - **성격 유형**: <span style="color:blue;">ENTJ</span>  
 - **관심사**: 여행, 풍경, 독서  
 - **기타**: KOSS  
 
-### 고신영   
+#### 고신영   
 - **성격 유형**: <span style="color:blue;">INFJ</span>  
 - **관심사**: 운동, 베이스 기타 치기  
-- **특기**: AI를 활용한 생체 데이터 분석  
+- **관심 분야**: AI를 활용한 생체 데이터 분석  
 
-### 오주엽  
+#### 오주엽  
 - **성격 유형**: <span style="color:blue;">ENTP</span>  
 - **관심사**: 게임  
 - **활동**: 정보보호연구실 학부 연구생  
 
-### 김예향 
+#### 김예향 
 - **성격 유형**: <span style="color:blue;">ISTJ</span>  
 - **관심사**: 여행, 계획 세우기  
-- **특기**: AI-CV 분야 프로젝트 진행 중  
+- **활동**: AI-CV 분야 프로젝트 진행 중  
  
 ---
 
+
+
 <!-- 알아보고 싶은 것들과 공통 관심사 등 -->
-## <span style="color:orange;">알아보고 싶은 것</span>  
+### <span style="color:orange;">알아보고 싶은 것</span> 🔍
  
 1. 멘토링 시스템  
 2. 자율 주행 경진대회  
@@ -53,7 +51,7 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-## <span style="color:orange;">공통적인 관심사</span>
+### <span style="color:orange;">공통적인 관심사</span> 📣
 
 1. AI
 2. 정보보안
@@ -64,11 +62,13 @@ A creative way to encourage everyone to think and share ideas.
 
 <!-- 주요 활동 소개
   사진 + 정리 필요-->
-## <span style="color:orange;">주요 활동 소개</span>
----
-### 인상깊었던 활동 1
+### <span style="color:orange;">주요 활동 소개</span> 📋
 
- **- 교수님과의 면담** **- 윤상민 교수님 -**  
+---
+
+#### 인상깊었던 활동 1
+
+ **- 교수님과의 면담 : 윤상민 교수님 -**  
  
  **면담 목적** : 팀의 관심사 중 인공지능 분야에 대한 진로탐색과 소프트웨어융합대학의 해외 프로그램에 대해 알아보고자 하였다.
  
@@ -81,9 +81,9 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-### 인상깊었던 활동 2
+#### 인상깊었던 활동 2
 
-**- 교수님과의 면담** **- 윤명근 교수님 -**  
+**- 교수님과의 면담 : 윤명근 교수님 -**  
  
  **면담 목적** : 인공지능을 활용한 보안에 관련해 최신 트렌드와 취업 및 진로를 알아보기 위해 면담을 신청하였다.
  
@@ -97,9 +97,9 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-### 인상깊었던 활동 3
+#### 인상깊었던 활동 3
 
-**- 대학원생과의 면담** **-HCI 한희태님-**
+**- 대학원생과의 면담 : HCI 한희태님-**
 
 **면담 목적** : 팀의 관심사 중 인공지능 분야와 대학원 진학에 알아보기 위해 면담을 신청하였다.
 
@@ -112,20 +112,36 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-### 인상깊었던 할동 4
-**- 멘토링 시스템 체험** **- 홍승환 멘토님-**
+#### 인상깊었던 활동 4
+
+**- 멘토링 시스템 체험 : 홍승환 멘토님-**
+---
+#### 인상깊었던 활동 사진 📸✨
+![image](https://github.com/user-attachments/assets/9793b758-8c62-413b-891e-0c7c588045d2)
+
 ---
 
 <!-- 알게된 것들 -->
-## 그 외의 활동으로 알게 된 것들
- 1. GPU 서버사용
+### <span style="color:orange;"> 그 외의 활동과 활동으로 알게 된 것들 </span> > 💡
+ 1. GPU 서버 사용 (dlpc 체험)
  2. 자율주행 경진대회
  3. 멘토링 시스템
+ 4. 정통처 서비스 및 시설
+ 5. 서버실 탐방
+
+---
+
+#### 추가적인 활동 사진 📸🖼️
+
+![image](https://github.com/user-attachments/assets/612f438c-4b2c-4810-ae18-73b4d5ea2095)
+
+<!-- 발표 때 받은 질의 응답  정리-->
+### <span style="color:orange;"> 발표 때 받은 질의 응답</span> 
 
 ---
 
 <!-- 각자 소감 정리 -->
-## 활동 소감
+### <span style="color:orange;"> 활동 소감 및 각오</span> 🎯 
 
 **김예향** : 한 학기 동안 다양한 활동을 하며 바쁘기도 했지만, 얻어가는게 많은 수업이었다. 특히 교수님들과의 면담과 선배님과의 멘토링을 통해서 나의 진로와 세부 분야에 대한 방향성을 정하는데 도움이 되어 뜻깊었고, 흥미있는 새로운 분야도 찾게되어 좋았다.
 
@@ -133,32 +149,7 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-## <span style="color:orange;">감사합니다!</span>  
-**Thank You!**  
+## <span style="color:orange;">감사합니다!</span>    
 유레카 프로젝트 6조
 
-## Markdown을 사용하여 내용꾸미기
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-🟥 빨간색  
-🟦 파란색  
-🟩 초록색  
